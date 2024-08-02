@@ -72,6 +72,8 @@ This web app provides a user-friendly interface to explore and interact with var
 - Seaborn
 - NumPy
 
+Install the necessary packages using the requirements.txt file using the following command:
+    pip install -r requirements.txt
 
 ## License
 
